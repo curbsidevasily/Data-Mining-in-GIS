@@ -12,7 +12,7 @@ Keras implementation of STF-RNN: Space Time Features-based Recurrent Neural Netw
 Python for street networks. Retrieve, construct, analyze, and visualize street networks from OpenStreetMap.
 [https://github.com/gboeing/osmnx](https://github.com/gboeing/osmnx)
 
-**Coordinates Transform:
+**Coordinates Transform**:
 [https://github.com/wandergis/coordTransform_py](https://github.com/wandergis/coordTransform_py)
 
 **Geopandas**:
